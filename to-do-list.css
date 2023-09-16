@@ -1,0 +1,43 @@
+.container {
+    background-color: gold;
+    max-width: 500px;
+    text-size-adjust :30px ;
+    border: 1px solid;
+    margin: 0 auto;
+    padding: 8px 24px;
+    text-align: center;
+    box-shadow: 0 0 10px 2px #333333;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+ 
+  input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  ol {
+    margin: 12px;
+  }
+p {
+
+    text-align: center;
+}
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+  }
+  
+  li {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  li:last-child {
+    border-bottom: none;
+  }
